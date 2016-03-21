@@ -1,0 +1,2 @@
+# Buddhism
+Content about Buddhism.
