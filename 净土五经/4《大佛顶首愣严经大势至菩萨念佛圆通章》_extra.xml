@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
+	<phrase hz="般剌密帝" py="bō,là,mì,dì" />
+	<phrase hz="恒河沙" py="héng,hé,shā" info="沙" />
+	<phrase hz="无量光" py="wú,liàng,guāng" info="量" />
+	<phrase hz="教我" py="jiāo,wǒ" />
+	<phrase hz="一专为忆" py="yì,zhuān,wéi,yì" info="一,为" />
+	<phrase hz="不相" py="bù,xiāng" />
+	<phrase hz="不假方便" py="bù,jiǎ,fāng,biàn" info="假"/>
+	<phrase hz="都摄六根" py="dōu,shè,liù,gēn" info="都"/>
+	<phrase hz="得三摩地" py="dé,sān,mó,dì" info="得"/>
+	<phrase hz="斯为第一" py="sī,wéi,dì,yī" info="为"/>
+</extra>
