@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
+	<phrase hz="得生" py="dé,shēng" info="得" />
+	<phrase hz="阿弥多婆夜" py="ā,mí,duō,pó,yè" info="阿。“阿弥多婆夜”即“阿弥陀佛”。" />
+	<phrase hz="哆他伽多夜" py="duō,tuō,qié,duō,yè" info="他" />
+	<phrase hz="哆地夜他" py="duō,dì,yè,tuō" info="他" />
+	<phrase hz="阿弥唎都婆毗" py="ā,mí,lì,dū,pó,pí" info="阿，唎，都" />
+	<phrase hz="阿弥唎哆" py="ā,mí,lì,duō" info="阿，唎" />
+	<phrase hz="伽伽那" py="qié,qié,nuó" info="那" />
+</extra>
