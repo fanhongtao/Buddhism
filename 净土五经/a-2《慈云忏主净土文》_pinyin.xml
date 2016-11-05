@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
+	<phrase hz="正念" py="zhèng,niàn" info="正" />
+	<phrase hz="称如来名" py="chēng,rú,lái,míng" info="称。" />
+	<phrase hz="为菩提道" py="wéi,pú,tí,dào" info="为: 做，行。" />
+	<phrase hz="信乐" py="xìn,yào" info="乐。" />
+	<phrase hz="得入" py="dé,rù" info="得。" />
+	<phrase hz="海中" py="hǎi,zhōng" info="中。" />
+	<phrase hz="华开见佛" py="huā,kāi,jiàn,fó" info="“华”同“花”。" />
+</extra>
