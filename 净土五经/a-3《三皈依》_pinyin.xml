@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
+	<phrase hz="当愿" py="dāng,yuàn" info="当" />
+	<phrase hz="体解" py="tǐ,jiě" info="体，解" />
+	<phrase hz="发无上心" py="fā,wú,shàng,xīn" info="发" />
+</extra>
