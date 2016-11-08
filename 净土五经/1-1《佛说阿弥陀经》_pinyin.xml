@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../extra.cshtml">
+	<phrase hz="得" py="dé" />
+	<phrase hz="与" py="yǔ" />
+	<phrase hz="俱絺罗" py="jù,chī,luó" />
+	<phrase hz="周利槃陀伽" py="zhōu,lì,pán,tuó,qié" />
+	<phrase hz="号阿弥陀" py="hào,ā,mí,tuó" info="号" />
+	<phrase hz="名为" py="míng,wéi" info="为" />
+	<phrase hz="但受诸乐" py="dàn,shòu,zhū,lè" info="乐" />
+	<phrase hz="七重" py="qī,chóng" info="重" />
+	<phrase hz="行树" py="háng,shù" info="行" />
+	<phrase hz="金沙布地" py="jīn,shā,bù,dì" info="地" />
+	<phrase hz="池中莲华" py="chí,zhōng,lián,huā" info="中,华" />
+	<phrase hz="常作天乐" py="cháng,zuò,tiān,yuè" info="乐" />
+	<phrase hz="黄金为地" py="huáng,jīn,wéi,dì" info="为,地" />
+	<phrase hz="雨天曼陀罗华" py="yù,tiān,màn,tuó,luó,huā" info="雨,华" />
+	<phrase hz="各以衣裓" py="gè,yǐ,yī,gé" info="裓" />
+	<phrase hz="盛众妙华" py="chéng,zhòng,miào,huā" info="盛,华" />
+	<phrase hz="即以食时" py="jí,yǐ,shí,shí" info="食" />
+	<phrase hz="还到本国" py="huán,dào,běn,guó" info="还" />
+	<phrase hz="饭食经行" py="fàn,sì,jīng,xíng" info="食,行" />
+	<phrase hz="百千种乐" py="bǎi,qiān,zhǒng,yuè" info="种,乐" />
+	<phrase hz="常有" py="cháng,yǒu" />
+	<phrase hz="出和雅音" py="chū,hé,yǎ,yīn" info="和" />
+	<phrase hz="七菩提分" py="qī,pú,tí,fēn" info="分" />
+	<phrase hz="八圣道分" py="bā,shèng,dào,fēn" info="分" />
+	<phrase hz="号为阿弥陀" py="hào,wéi,ā,mí,tuó" info="号,为" />
+	<phrase hz="其数甚多" py="qí,shù,shèn,duō" info="号,为" />
+	<phrase hz="俱会一处" py="jù,huì,yí,chù" info="得,与" />
+	<phrase hz="少善根福德" py="shǎo,shàn,gēn,fú,dé" info="少" />
+	<phrase hz="恒河沙数" py="héng,hé,shā,shù" info="沙,数" />
+	<phrase hz="当信是称赞" py="dāng,xìn,shì,chēng,zàn" info="当,赞" />
+	<phrase hz="皆为" py="jiē,wéi" info="为" />
+	<phrase hz="皆当信受我语" py="jiē,dāng,xìn,shòu,wǒ,yǔ" info="当,语" />
+	<phrase hz="当发愿" py="dāng,fā,yuàn" info="当,发" />
+	<phrase hz="若当生" py="ruò,dāng,shēng" info="当" />
+	<phrase hz="能为甚难" py="néng,wéi,shèn,nán" info="为,甚,难" />
+	<phrase hz="命浊中" py="mìng,zhuó,zhōng" info="中" />
+	<phrase hz="为诸众生" py="wèi,zhū,zhòng,shēng" info="为" />
+	<phrase hz="为一切世间" py="wèi,yí,qiè,shì,jiān" info="为,切,世,间" />
+	<phrase hz="难信之法" py="nán,xìn,zhī,fǎ" info="难" />
+	<phrase hz="当知" py="dāng,zhī" info="当" />
+	<phrase hz="行此难事" py="xíng,cǐ,nán,shì" info="行" />
+	<phrase hz="是为甚难" py="shì,wéi,shèn,nán" info="为,甚,难" />
+</extra>
